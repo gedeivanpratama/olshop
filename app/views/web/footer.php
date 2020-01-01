@@ -145,7 +145,7 @@
     <!-- END QUICKVIEW PRODUCT -->
     <!-- Placed js at the end of the document so the pages load faster -->
     <!-- jquery latest version -->
-    <script src="<?= BASEURL ?>/js/vendor/jquery-1.12.0.min.js"></script>
+    <script src="<?= BASEURL ?>/js/jquery-1.12.0.min.js"></script>
     <!-- Bootstrap framework js -->
     <script src="<?= BASEURL ?>/js/bootstrap.min.js"></script>
     <!-- All js plugins included in this file. -->
@@ -156,6 +156,8 @@
     <script src="<?= BASEURL ?>/js/waypoints.min.js"></script>
     <!-- Main js file that contents all jQuery plugins activation. -->
     <script src="<?= BASEURL ?>/js/main.js"></script>
+    <script src="<?= BASEURL ?>/js/vendor/modernizr-2.8.3.min.js"></script>
+
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
     <script>
 

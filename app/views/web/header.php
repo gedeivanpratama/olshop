@@ -26,10 +26,6 @@
     <link rel="stylesheet" href="<?= BASEURL ?>/css/responsive.css">
     <!-- User style -->
     <link rel="stylesheet" href="<?= BASEURL ?>/css/custom.css">
-
-
-    <!-- Modernizr JS -->
-    <script src="<?= BASEURL ?>/js/vendor/modernizr-2.8.3.min.js"></script>
 </head>
 
 <body>
